@@ -13,6 +13,9 @@
 - `data_cleanup.ipynb` - Code for cleaning the data
 - `data_analysis.ipynb` - Code for analyzing the data (Generating R, R^2, Feature Importance, etc.)
 - `data_analysis_w_infrastructure.ipynb` - Code for analyzing the data with infrastructure (Generating R, R^2, Feature Importance, etc.)
+- `visualization.ipynb` - Code for visualizing the data
+- `visualization_w_infrastructure.ipynb` - Code for visualizing the data with infrastructure
+
 
 
 
