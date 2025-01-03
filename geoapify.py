@@ -1,5 +1,3 @@
-import json
-import random
 import csv
 import requests
 from requests.structures import CaseInsensitiveDict
